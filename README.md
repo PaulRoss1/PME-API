@@ -1,6 +1,6 @@
 # Prague Music Events - API
 
-#### A REST API made with the Django REST Framework.
+A REST API made with the Django REST Framework.
 
 ## Technologies Used
 
